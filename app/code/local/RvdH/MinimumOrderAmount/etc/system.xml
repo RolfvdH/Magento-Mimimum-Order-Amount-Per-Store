@@ -1,0 +1,18 @@
+<config>
+    <section>
+         <sales>
+            <groups>
+                 <minimum_order>
+                    <fields>
+                        <active>
+                            <show_in_store>1</show_in_store>
+                        </active>
+                        <amount>
+                            <show_in_store>1</show_in_store>
+                        </amount>
+                     </fields>
+                 </minimum_order>
+           </groups>
+       </sales>
+    </section>
+</config>

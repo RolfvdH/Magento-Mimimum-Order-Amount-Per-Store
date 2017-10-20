@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Minimum_Order_Amount>
+            <version>0.0.1</version>
+        </Minimum_Order_Amount>
+    </modules>
+</config>

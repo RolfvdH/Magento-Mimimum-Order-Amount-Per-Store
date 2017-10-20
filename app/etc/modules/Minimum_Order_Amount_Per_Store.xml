@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Minimum_Order_Amount>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Sale />
+                <Mage_Sales />
+            </depends>
+        </Minimum_Order_Amount>
+    </modules>
+</config>
